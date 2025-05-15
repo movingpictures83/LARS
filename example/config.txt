@@ -1,0 +1,2 @@
+Prefix plugins/LARS/example/
+Plugin LARS inputfile parameters.train.txt outputfile output.rds
